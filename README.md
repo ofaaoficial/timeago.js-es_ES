@@ -2,7 +2,7 @@
 
 Traducción a español para la librería [timeago.js](https://github.com/hustcc/timeago.js) con un ejemplo básico de uso.
 
-```
+```javascript
 const { format, register } = require('timeago.js') //Puede utilizar `import` para Javascript code.
 
 register('es_ES', (number, index, total_sec) => [
