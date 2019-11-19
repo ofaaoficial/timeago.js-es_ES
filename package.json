@@ -1,0 +1,14 @@
+{
+  "name": "timeago.js_es",
+  "version": "1.0.0",
+  "description": "Traducción a español para la librería timeago.js con un ejemplo básico de uso.",
+  "main": "timeago.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Amado",
+  "license": "ISC",
+  "dependencies": {
+    "timeago.js": "^4.0.1"
+  }
+}
